@@ -1,2 +1,1 @@
-# linux_programming
-embedded system linux
+# Linux Embedded 
